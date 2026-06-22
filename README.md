@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repository
 <br>
-Author - Kundan Kumar Gond
+Author - Kundan Kumar Gond(MMMUT)
